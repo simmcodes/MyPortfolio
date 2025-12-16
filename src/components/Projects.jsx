@@ -44,7 +44,7 @@ const Projects = () => {
       color: 'pink',
       hasLiveDemo: true,
       hasGithub: true,
-      liveDemoUrl: 'glintor.netlify.app',
+      liveDemoUrl: 'https://glintor.netlify.app',
       githubUrl: 'https://github.com/simmcodes/Glintor'
     },
     {
@@ -119,7 +119,7 @@ const Projects = () => {
       color: 'blue',
       hasLiveDemo: true,
       hasGithub: true,
-      liveDemoUrl: 'beautyblogsim.netlify.app',
+      liveDemoUrl: 'https://beautyblogsim.netlify.app',
       githubUrl: 'https://github.com/simmcodes/neu-info6150-web-design-and-user-experience-engineering-fall2024/tree/main/final-project'
     },
     {
@@ -199,7 +199,7 @@ const Projects = () => {
       color: 'peach',
       hasLiveDemo: false,
       hasGithub: true,
-      githubUrl: ''
+      githubUrl: 'https://github.com/simmcodes/Music-Hit-Prediction'
     },
     {
       id: 6,
